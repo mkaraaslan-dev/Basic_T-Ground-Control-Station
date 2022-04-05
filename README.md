@@ -19,4 +19,3 @@ https://github.com/KARAASLAN-AI/RTSP_video_stream
 ## Contact
 
 Mahmut KARAASLAN : mkaraaslan719@gmail.com
-
