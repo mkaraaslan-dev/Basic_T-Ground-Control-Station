@@ -2,7 +2,6 @@
 
 This application shows the data coming from the UAV in accordance with the Basic T model standards.
 
-
 ## version_1
 ![Basic_T](https://github.com/KARAASLAN-AI/Basic_T_Ground_Station_Control/blob/main/pygame%20window%202021-07-18%2013-09-14.gif)
 
