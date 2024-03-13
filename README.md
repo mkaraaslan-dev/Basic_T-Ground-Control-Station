@@ -1,6 +1,8 @@
 # Basic_T-Ground-Control-Station
 
-This application shows the received data from the UAV to the Basic T model standards.
+This application shows the received data from the UAV to the Basic T model standards. The program has been tested on a real UAV.
+Pygame library was used for gui and object oriented programming was adopted.
+Dronekit library was used for communication.
 
 ## version_1
 ![Basic_T](https://github.com/KARAASLAN-AI/Basic_T_Ground_Station_Control/blob/main/pygame%20window%202021-07-18%2013-09-14.gif)
